@@ -1,15 +1,15 @@
 {{Infobox scientist
 | name = 増井俊之
-| image = [[File:増井俊之プロフィール写真.jpg|thumb|増井俊之のプロフィール写真]]
+| image = 増井俊之.jpg
 | image_width = 250px
 | alt = 
 | caption = 
 | birth_name = 
 | birth_date = {{生年月日と年齢|1959|7|11}}
-| birth_place = {{JPN1947}}、[[兵庫県]]
+| birth_place = [[兵庫県]]
 | nationality = {{JPN}}
-| field = 計算機科学
-| workplaces = [[慶應義塾大学湘南藤沢キャンパス]]
+| field = [[計算機科学]], [[ユーザインタフェース]]
+| workplaces = [[慶應義塾大学湘南藤沢キャンパス]]<br/>[[慶應義塾大学SFC研究所]]
 | alma_mater = [[東京大学]]
 | signature_alt = 
 }}
