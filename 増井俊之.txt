@@ -1,0 +1,63 @@
+'''増井 俊之'''（ますい としゆき、[[1959年]]<ref name="typemag20120726"/>[[7月11日]] - ）は、日本の[[工学者]]、ユーザインターフェース研究者<ref name="typemag20120726">{{Cite web|url=http://engineer.typemag.jp/article/ui|title=UI研究の第一人者・増井俊之が目指す「コロンブス指数」の高い発明とは？【連載：匠たちの視点-増井俊之】|date=2012-07-26|accessdate=2013-03-03|publisher=Career Design Center co.,ltd.|work=エンジニアtype|author=武田敏則}}</ref>。予測型[[日本語入力システム]]「[[POBox]]」の発明者/開発者である。工学博士。2009年より[[慶應義塾大学]][[環境情報学部]]教授<ref name="typemag20120726" />。
+
+[[Apple]]で[[iPhone]]の日本語入力システム([[フリック入力]])を開発<ref>{{citation|first=礼子|last=岡|url=http://mainichi.jp/select/biz/it/news/20111025mog00m020030000c.html|title=ジョブズ氏を語る：「技術の選択眼、確かだった」増井俊之・慶応義塾大教授|publisher=[[毎日新聞]]|date=2011-10-26|accessdate=2011-10-30}}</ref>。
+
+[[ソニーコンピュータサイエンス研究所]]勤務時の[[1997年]]に、「[[GUI]]ソフトウェアの開発においては、[[プログラマ]]はコンピュータの実行効率よりも、ユーザーの使い勝手や開発者の[[デバッグ]]の容易さを重視すべき」とする[[富豪的プログラミング]]を提唱した。
+
+画像キャプチャ/アップロードシステム[[Gyazo]]、情報整理/共有システム[[Scrapbox]]、ヘルプ支援システムHelpfeel、パスワード管理システムEpisoPassの発明者。
+
+== 略歴 ==
+*[[1982年]] [[東京大学]][[工学部]]電子工学科卒業
+*[[1984年]] 東京大学大学院工学系研究科電子工学専攻 修士課程修了 
+*[[1984年]]4月 [[富士通]]入社（半導体事業部）
+*[[1986年]]4月 [[シャープ]]入社、1989年-1991年 [[カーネギーメロン大学]]客員研究員
+*[[1996年]]1月 [[ソニーコンピュータサイエンス研究所]]入社
+*[[1997年]]11月　東京大学 [[工学博士]] 論文の題は 「予測/例示インタフェースシステムの研究 」<ref>博士論文書誌データベース</ref>
+*[[2003年]]4月 [[産業技術総合研究所]] 情報処理研究部門 研究員
+*[[2005年]] [https://www.mcfund.or.jp/mobilescience/award/no4.html ドコモモバイルサイエンス賞]
+*[[2006年]]10月 米[[Apple]]入社
+*[[2008年]]9月 慶應義塾大学 SFC研究所 上席研究員
+*[[2009年]]4月 慶應義塾大学 環境情報学部 教授 （兼 政策・メディア研究科委員）
+*[[2014年]]11月 Nota Inc. ([[Gyazo]]運営元) CTO就任<ref>{{Cite web|url=http://thebridge.jp/2014/11/nota-gyazo-funding|title=画像キャプチャのGyazoを運営する京都のNOTA Inc.が、オプト、YJキャピタル、みやこキャピタルから総額200万ドルの資金調達 | date=2014-11-11|accessdate=2015-02-19|publisher=(C) THE BRIDGE.|work=THE BRIDGE|author=江口晋太朗}}</ref>
+
+== タイトル ==
+* 2021年 [https://www.ipsj.or.jp/annai/aboutipsj/fellow/masui.html 情報処理学会フェロー] (コンピュータのユーザインタフェースに関わる幅広い研究及び実用化)
+
+== 著書 ==
+
+* 『Perl書法』(ASCII SOFTWARE SCIENCE Language) ISBN 4756102816 1993年
+* 『インタフェースの街角-本当に使いやすいユーザー・インターフェイスの極意』 (UNIX MAGAZINE COLLECTION) ISBN 4756146627 2005年
+* 『スマホに満足してますか？～ユーザインタフェースの心理学～』(光文社新書) ISBN 433403845X 2015年 
+
+== 受賞歴 ==
+* 1997年 情報処理学会 山内賞
+*2002年 ソニー株式会社 「大吟醸」(社長賞)
+*2004年 [https://www.ipsj.or.jp/award/yamashita2004.html 情報処理学会 山下記念賞] (近傍関係を活用した情報検索)
+*2005年 [https://www.mcfund.or.jp/mobilescience/award/no4.html 第4回ドコモ・モバイル・サイエンス賞] 先端技術部門 優秀賞<ref>{{Cite web|url=http://www.itmedia.co.jp/mobile/articles/0510/05/news097.html|title=「第4回ドコモ・モバイル・サイエンス賞」の受賞者を発表|publisher=アイティメディア|date=2005-10-05|accessdate=2013-03-03}}</ref>
+
+ ==脚注==
+{{脚注ヘルプ}}
+=== 出典 ===
+{{Reflist}}
+
+== 外部リンク ==
+* [http://pitecan.com/ Pitecan.com]
+* [http://dictionary.sanseido-publ.co.jp/wp/2007/10/04/%e5%8b%89%e5%bc%b7%e5%b7%a5%e5%ad%a6-web%e6%99%82%e4%bb%a3%e3%81%ae%e5%ad%a6%e7%bf%92%e6%b3%95%e3%80%80%e7%ac%ac1%e5%9b%9e/ Sanseido Word-Wise Webでの連載]
+* [https://scrapbox.io/masui/%E5%AF%8C%E8%B1%AA%E7%9A%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 富豪的プログラミング]
+*[https://gyazo.com/ Gyazo]
+*[https://scrapbox.io/ Scrapbox]
+
+{{Normdaten}}
+{{Scientist-stub}}
+
+{{DEFAULTSORT:ますい としゆき}}
+[[Category:日本の計算機科学者]]
+[[Category:日本の電子工学者]]
+[[Category:富士通の人物]]
+[[Category:Apple Computerの人物]]
+[[Category:産業技術総合研究所の人物]]
+[[Category:ソニーコンピュータサイエンス研究所の人物]]
+[[Category:慶應義塾大学の教員]]
+[[Category:東京大学出身の人物]]
+[[Category:1959年生]]
+[[Category:存命人物]]
