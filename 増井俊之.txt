@@ -15,7 +15,7 @@
 | signature_alt = 
 }}
 
-<!-- ref template -->
+<!-- <ref name="xxx">{{Cite web|url=http:|title=|date=2012-07-26|accessdate=2013-03-03|publisher=|work=|last=武田|first=敏則}}</ref> -->
 
 '''増井 俊之'''（ますい としゆき、[[1959年]]<ref name="typemag20120726"/>[[7月11日]] - ）は、
 日本の[[工学者]]、ユーザインターフェース研究者<ref name="typemag20120726">{{Cite web|url=http://engineer.typemag.jp/article/ui|title=UI研究の第一人者・増井俊之が目指す「コロンブス指数」の高い発明とは？【連載：匠たちの視点-増井俊之】|date=2012-07-26|accessdate=2013-03-03|publisher=Career Design Center co.,ltd.|work=エンジニアtype|last=武田|first=敏則}}</ref>。
@@ -56,7 +56,7 @@
 * [[2010年]] - [[2012年]] IPA [[未踏ユース]] プロジェクトマネージャー
 * [[2014年]]11月- [[Nota Inc.]] ([[Gyazo]], [[Scrapbox]], [[Helpfeel]]運営元) CTO<ref>{{Cite web|url=http://thebridge.jp/2014/11/nota-gyazo-funding|title=画像キャプチャのGyazoを運営する京都のNOTA Inc.が、オプト、YJキャピタル、みやこキャピタルから総額200万ドルの資金調達 | date=2014-11-11|accessdate=2015-02-19|publisher=(C) THE BRIDGE.|work=THE BRIDGE|author=江口晋太朗}}</ref>
 * [[2015年]] [[ケンブリッジ大学]] コンピュータサイエンス学部 訪問研究員
-* [[2018年]]-  [[江副記念リクルート財団]] 学術部門 助成事業 選考委員 (https://www.recruit-foundation.org/scholarship/academic2020_sub)
+* [[2018年]]-  [https://www.recruit-foundation.org/scholarship/academic2020_sub [[江副記念リクルート財団]] 学術部門 助成事業 選考委員]
 
 == 著書 ==
 
@@ -100,6 +100,17 @@
 * [https://gyazo.com/ Gyazo]
 * [https://scrapbox.io/ Scrapbox]
 * [https://helpfeel.com/ Helpfeel]
+
+== 公開ソフトウェア/サービス==
+* [https://GitHub.com/masui GitHub]
+* [http://hondana.org 本棚.org] (書籍情報共有) ([https://github.com/masui/Hondana GitHub])
+* [https://episopass.com EpisoPass] (パスワード管理) ([https://github.com/masui/EpisoPass GitHub])
+* [https://Enigmize.com Enigmize]
+* [http://GyaTV.com GyaTV]
+* [http://www.pitecan.com/DynamicMacro/ Dynamic Macro]
+* [http://goquick.org GoQuick]
+* 罫線.el
+* [https://github.com/masui/asearch-ruby Asearch]
 
 {{Normdaten}}
 {{Scientist-stub}}
