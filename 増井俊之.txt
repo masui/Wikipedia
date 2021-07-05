@@ -16,12 +16,12 @@
 * [[1989年]]9月-[[1991年]]8月 [[カーネギーメロン大学]]訪問研究員
 * [[1996年]]1月 [[ソニーコンピュータサイエンス研究所]]入社
 * [[1997年]]11月 東京大学 [[工学博士]]  「予測/例示インタフェースシステムの研究 」<ref>博士論文書誌データベース</ref>
-* [[2003年]]4月 [[産業技術総合研究所]] 情報処理研究部門 主任研究員
+* [[2003年]]4月-[[2006年]]9月 [[産業技術総合研究所]] 情報処理研究部門 主任研究員
 * [[2005年]] [https://www.mcfund.or.jp/mobilescience/award/no4.html ドコモモバイルサイエンス賞]
-* [[2006年]]10月 米[[Apple]]入社
+* [[2006年]]10月-[[2008年]]8月 米[[Apple]] Inc.
 * [[2008年]]9月 慶應義塾大学 SFC研究所 上席研究員
-* [[2009年]]4月 慶應義塾大学 環境情報学部 教授 （兼 政策・メディア研究科委員）
-* [[2014年]]11月 Nota Inc. ([[Gyazo]]運営元) CTO就任<ref>{{Cite web|url=http://thebridge.jp/2014/11/nota-gyazo-funding|title=画像キャプチャのGyazoを運営する京都のNOTA Inc.が、オプト、YJキャピタル、みやこキャピタルから総額200万ドルの資金調達 | date=2014-11-11|accessdate=2015-02-19|publisher=(C) THE BRIDGE.|work=THE BRIDGE|author=江口晋太朗}}</ref>
+* [[2009年]]4月- 慶應義塾大学 環境情報学部 教授 （兼 政策・メディア研究科委員）
+* [[2014年]]11月-  Nota Inc. ([[Gyazo]], [[Scrapbox]], [[Helpfeel]]運営元) CTO<ref>{{Cite web|url=http://thebridge.jp/2014/11/nota-gyazo-funding|title=画像キャプチャのGyazoを運営する京都のNOTA Inc.が、オプト、YJキャピタル、みやこキャピタルから総額200万ドルの資金調達 | date=2014-11-11|accessdate=2015-02-19|publisher=(C) THE BRIDGE.|work=THE BRIDGE|author=江口晋太朗}}</ref>
 
 == タイトル ==
 * 2021年 [https://www.ipsj.or.jp/annai/aboutipsj/fellow/masui.html 情報処理学会フェロー] (コンピュータのユーザインタフェースに関わる幅広い研究及び実用化)
@@ -39,7 +39,7 @@
 * 『Languages for Developing User Interfaces』 ISBN 0867204508 1992年 部分執筆
 * 『Your Wish is My Command: Programming By Example』 ISBN 1558606882 2001年 部分執筆
 
-== 受賞歴 ==
+== 受賞 ==
 * 1997年 情報処理学会 山内賞
 * 2002年 ソニー株式会社 「大吟醸」(社長賞)
 * 2004年 [https://www.ipsj.or.jp/award/yamashita2004.html 情報処理学会 山下記念賞] (近傍関係を活用した情報検索)
@@ -47,6 +47,7 @@
 
 ==脚注==
 {{脚注ヘルプ}}
+
 === 出典 ===
 {{Reflist}}
 
