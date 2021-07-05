@@ -34,13 +34,13 @@
 * 『スマホに満足してますか？～ユーザインタフェースの心理学～』(光文社新書) ISBN 433403845X 2015年
 * 『インタフェースの街角-本当に使いやすいユーザー・インターフェイスの極意』 (UNIX MAGAZINE COLLECTION) ISBN 4756146627 2005年
 * 『Perl書法』(ASCII SOFTWARE SCIENCE Language) ISBN 4756102816 1993年
-* 『ITと数学』 (技術評論社) ISBN 4297120666 2021年  部分執筆
+* 『ITと数学』 (技術評論社) ISBN 4297120666 2021年 (共著)
 * 『ビューティフルビジュアライゼーション』 ISBN 4873115043 2011年 監訳
 * 『ビジュアライジング・データ ―Processingによる情報視覚化手法』 ISBN 1558606882 2008年 監訳
-* 『遺伝的アルゴリズム』(産業図書) ISBN 4782851367 1993年 部分執筆
-* 『遺伝的アルゴリズム〈2〉』(産業図書) ISBN 4782851413 1995年 部分執筆
-* 『Languages for Developing User Interfaces』 ISBN 0867204508 1992年 部分執筆
-* 『Your Wish is My Command: Programming By Example』 ISBN 1558606882 2001年 部分執筆
+* 『遺伝的アルゴリズム』(産業図書) ISBN 4782851367 1993年 (共著)
+* 『遺伝的アルゴリズム〈2〉』(産業図書) ISBN 4782851413 1995年 (共著)
+* 『Languages for Developing User Interfaces』 ISBN 0867204508 1992年 (共著)
+* 『Your Wish is My Command: Programming By Example』 ISBN 1558606882 2001年 (共著)
 
 == 受賞 ==
 * 1997年 情報処理学会 山内賞 (なめらかなユーザインタフェース)
