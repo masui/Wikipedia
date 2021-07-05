@@ -29,7 +29,7 @@
 
 2006年、[[Steve Jobs]]に招かれて[[Apple Inc.]]に入社し、[[iPhone]]の日本語入力システム([[フリック入力]])を開発した<ref>{{citation|first=礼子|last=岡|url=http://mainichi.jp/select/biz/it/news/20111025mog00m020030000c.html|title=ジョブズ氏を語る：「技術の選択眼、確かだった」増井俊之・慶応義塾大教授|publisher=[[毎日新聞]]|date=2011-10-26|accessdate=2011-10-30}}</ref>。
 
-画像キャプチャ/アップロードシステム[[Gyazo]]、情報整理/共有システム[[Scrapbox]]、ヘルプ支援システム[[Helpfeel]] を発明し、Nota Inc. のCTOとして運用中。
+画像キャプチャ/アップロードシステム[https://gyazo.com Gyazo]、情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、Nota Inc. のCTOとして運用中。
 書籍情報共有サービス[[本棚.org]]、パスワード管理システム[[EpisoPass]]を運用中。
 
 == 略歴 ==
