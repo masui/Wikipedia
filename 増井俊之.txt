@@ -9,6 +9,7 @@
 | birth_place = [[兵庫県]]
 | nationality = {{JPN}}
 | field = [[計算機科学]], [[ユーザインタフェース]]
+| known_for = 予測型日本語入力システム[[POBox]]の発明<br/>スマホの[[フリック入力]]の開発<br/>[http://WISS.org WISS]設立<br/>[https://scrapbox.io/masui/%E5%AF%8C%E8%B1%AA%E7%9A%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 富豪的プログラミング]の提唱
 | workplaces = [[慶應義塾大学湘南藤沢キャンパス]]<br/>[[慶應義塾大学SFC研究所]]
 | alma_mater = [[東京大学]]
 | signature_alt = 
