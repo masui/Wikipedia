@@ -1,3 +1,19 @@
+{{Infobox scientist
+| name = 増井俊之
+| image = [[File:増井俊之プロフィール写真.jpg|thumb|増井俊之のプロフィール写真]]
+| image_width = 250px
+| alt = 
+| caption = 
+| birth_name = 
+| birth_date = {{生年月日と年齢|1959|7|11}}
+| birth_place = {{JPN1947}}、[[兵庫県]]
+| nationality = {{JPN}}
+| field = 計算機科学
+| workplaces = [[慶應義塾大学湘南藤沢キャンパス]]
+| alma_mater = [[慶應義塾大学]]
+| signature_alt = 
+}}
+
 '''増井 俊之'''（ますい としゆき、[[1959年]]<ref name="typemag20120726"/>[[7月11日]] - ）は、
 日本の[[工学者]]、ユーザインターフェース研究者<ref name="typemag20120726">{{Cite web|url=http://engineer.typemag.jp/article/ui|title=UI研究の第一人者・増井俊之が目指す「コロンブス指数」の高い発明とは？【連載：匠たちの視点-増井俊之】|date=2012-07-26|accessdate=2013-03-03|publisher=Career Design Center co.,ltd.|work=エンジニアtype|author=武田敏則}}</ref>。
 
