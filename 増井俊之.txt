@@ -73,16 +73,15 @@
 * 1997年 情報処理学会 山内賞 (なめらかなユーザインタフェース)
 * 2001年 ソニー株式会社 「大吟醸賞」(社長賞)
 * 2004年 [https://www.ipsj.or.jp/award/yamashita2004-detail.html 情報処理学会 山下記念賞] (近傍関係を活用した情報検索)
-* 2005年 [https://www.mcfund.or.jp/mobilescience/award/no4.html 第4回ドコモ・モバイル・サイエンス賞] 先端技術部門 優秀賞<ref>{{Cite web|url=http://www.itmedia.co.jp/mobile/articles/0510/05/news097.html|title=「第4回ドコモ・モバイル・サイエンス賞」の受賞者を発表|publisher=アイティメディア|date=2005-10-05|accessdate=2013-03-03}}</ref>
+* 2005年 [https://www.mcfund.or.jp/mobilescience/award/no4.html 第4回ドコモ・モバイル・サイエンス賞] 先端技術部門 優秀賞<ref>{{Cite web|url=http://www.itmedia.co.jp/mobile/articles/0510/05/news097.html|title=「第4回ドコモ・モバイル・サイエンス賞」の受賞者を発表|publisher=ITmedia|date=2005-10-05|accessdate=2013-03-03}}</ref>
 * 2021年 情報処理学会 フェロー<ref>{{Cite web|url=https://www.ipsj.or.jp/annai/aboutipsj/fellow/masui.html|title=増井 俊之 君-情報処理学会|accessdate=2021-07-05}}</ref> (コンピュータのユーザインタフェースに関わる幅広い研究及び実用化)
 * 2021年 日本ソフトウェア科学会 基礎研究賞 (予定)
 
 == その他 ==
-* 「[[GUI]]ソフトウェアの開発においては、[[プログラマ]]はコンピュータの実行効率よりも、ユーザーの使い勝手や開発者の[[デバッグ]]の容易さを重視すべき」とする[[富豪的プログラミング]]を提唱 (1997)<ref>{{Cite book|和書|title=/* bit|publisher=共立出版|page=29(1), 36-37|year=1997}}</ref><ref>{{Cite web|url=https://ci.nii.ac.jp/naid/10018045572|title=富豪的プログラミング|accessdate=2021-07-05}}</ref>
-
+* 「[[GUI]]ソフトウェアの開発においては、[[プログラマ]]はコンピュータの実行効率よりも、ユーザーの使い勝手や開発者の[[デバッグ]]の容易さを重視すべき」とする[[富豪的プログラミング]]を提唱 (1997)<ref>{{Cite book|和書|title=bit|publisher=共立出版|page=29(1), 36-37|year=1997}}</ref><ref>{{Cite web|url=https://ci.nii.ac.jp/naid/10018045572|title=富豪的プログラミング|accessdate=2021-07-05}}</ref>
 * 簡易音楽記述言語(MML)で利用される「ストトン表記」を提唱<ref>{{Cite web | url=http://pitecan.com/Sutoton/ | title=ストトン表記による楽音生成|accessdate=2021-07-05}}</ref><ref>{{Cite web | url= https://ci.nii.ac.jp/naid/110006342648/ | title=教育用プログラミング言語と授業利用 : 5．情報教育における音楽の利用，音楽教育における情報教育の利用 | accessdate=2021-07-05}}</ref>
- 
 * ユーザインタフェースの研究者が議論を行なうためのワークショップ「[http://WISS.org WISS]」(Workshop on Interactive Systems and Software)を設立 (1993)
+* ITの発明おじさんと呼ばれている<ref name="hatsumeiojisan">{{Cite web|url=https://www.itmedia.co.jp/bizid/articles/0608/21/news049.html|title=ITの「発明おじさん」――産業技術総合研究所・増井俊之さん|date=2006-08-21|accessdate=2021-07-06|publisher=ITmedia|author=吉田有子}}</ref>。
 
 ==脚注==
 {{脚注ヘルプ}}
