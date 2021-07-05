@@ -97,20 +97,28 @@
 * [https://scrapbox.io/masui/論文リスト 論文リスト]
 * [http://pitecan.com/ Pitecan.com]
 * [http://dictionary.sanseido-publ.co.jp/wp/2007/10/04/%e5%8b%89%e5%bc%b7%e5%b7%a5%e5%ad%a6-web%e6%99%82%e4%bb%a3%e3%81%ae%e5%ad%a6%e7%bf%92%e6%b3%95%e3%80%80%e7%ac%ac1%e5%9b%9e/ Sanseido Word-Wise Webでの連載]
-* [https://gyazo.com/ Gyazo]
-* [https://scrapbox.io/ Scrapbox]
-* [https://helpfeel.com/ Helpfeel]
 
-== 公開ソフトウェア/サービス==
-* [https://GitHub.com/masui GitHub]
-* [http://hondana.org 本棚.org] (書籍情報共有) ([https://github.com/masui/Hondana GitHub])
-* [https://episopass.com EpisoPass] (パスワード管理) ([https://github.com/masui/EpisoPass GitHub])
-* [https://Enigmize.com Enigmize]
-* [http://GyaTV.com GyaTV]
+== 公開サービス==
+* [[Nota Inc.]]での運用
+** [https://gyazo.com/ Gyazo]
+** [https://scrapbox.io/ Scrapbox]
+** [https://helpfeel.com/ Helpfeel]
+* 個人運用
+** [http://hondana.org 本棚.org] (書籍情報共有)
+** [https://episopass.com EpisoPass] (パスワード管理)
+** [https://Enigmize.com Enigmize] (暗号化通信)
+** [http://GyaTV.com GyaTV] (スクリーンセーバ)
+** [http://goquick.org GoQuick] (URLショートカット)
+
+== 公開ソフトウェア ==
+* [https://github.com/masui/Hondana 本棚.org]
+* [https://github.com/masui/EpisoPass EpisoPass]
+* [https://github.com/masui/Enigmize Enigmize]
+* [https://github.com/masui/GyaTV GyaTV]
+* [https://github.com/masui/GoQuick GoQuick]
 * [http://www.pitecan.com/DynamicMacro/ Dynamic Macro]
-* [http://goquick.org GoQuick]
-* 罫線.el
 * [https://github.com/masui/asearch-ruby Asearch]
+* 罫線.el
 
 {{Normdaten}}
 {{Scientist-stub}}
