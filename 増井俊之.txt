@@ -94,6 +94,8 @@
 {{Cite web
 |url=http://mypico.org/people/
 |title=Pico people
+|author=Frank Stajano
+|work=[[University of Cambridge]]
 |accessdate=2021-07-06
 }}
 </ref>
