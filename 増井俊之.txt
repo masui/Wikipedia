@@ -53,7 +53,7 @@
 |accessdate=2011-10-30}}
 </ref>。
 
-画像キャプチャ/アップロードシステム[[Gyazo]]、情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、[[Nota Inc.]] のCTOとして運用中。
+画像キャプチャ/アップロードシステム[[Gyazo]]、Web上の情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、[[Nota Inc.]] のCTOとして運用中。
 書籍情報共有サービス[http://hondana.org/ 本棚.org]、パスワード管理システム[https://episopass.com/index.html EpisoPass]を運用中。
 
 == 略歴 ==
@@ -157,15 +157,16 @@
 
 == Webサービス==
 * [[Nota Inc.]]での運用
-** [https://gyazo.com/ Gyazo]
-** [https://scrapbox.io/ Scrapbox]
-** [https://helpfeel.com/ Helpfeel]
+** [https://gyazo.com/ Gyazo] (画像キャプチャ/アップロードシステム)
+** [https://scrapbox.io/ Scrapbox] (Web上の情報整理/共有システム)
+** [https://helpfeel.com/ Helpfeel] (ヘルプ支援システム)
 * 個人運用
 ** [http://hondana.org 本棚.org] (書籍情報共有)
 ** [https://episopass.com EpisoPass] (パスワード管理)
 ** [https://Enigmize.com Enigmize] (暗号化通信)
 ** [http://GyaTV.com GyaTV] (スクリーンセーバ)
 ** [http://goquick.org GoQuick] (URLショートカット)
+** [http://Gyaki.org Gyaki] (ブラウザお絵描き)
 
 == 公開ソフトウェア ==
 * [https://github.com/masui/Hondana 本棚.org]
@@ -173,8 +174,9 @@
 * [https://github.com/masui/Enigmize Enigmize]
 * [https://github.com/masui/GyaTV GyaTV]
 * [https://github.com/masui/GoQuick GoQuick]
-* [http://www.pitecan.com/DynamicMacro/ Dynamic Macro]
-* [https://github.com/masui/asearch-ruby Asearch]
+* [https://github.com/masui/Gyaki Gyaki]
+* [http://www.pitecan.com/DynamicMacro/ Dynamic Macro] (編集操作再実行)
+* [https://github.com/masui/asearch-ruby Asearch] (曖昧検索ライブラリ)
 * 罫線.el
 
 {{Normdaten}}
