@@ -9,16 +9,28 @@
 | birth_place = [[兵庫県]]
 | nationality = {{JPN}}
 | field = [[計算機科学]], [[ユーザインタフェース]]
-| known_for = 予測型日本語入力システム[[POBox]]の発明<br/>スマホの[[フリック入力]]の開発<br/>[http://WISS.org WISS]設立<br/>[https://scrapbox.io/masui/%E5%AF%8C%E8%B1%AA%E7%9A%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 富豪的プログラミング]の提唱
+| known_for = 予測型日本語入力システム[[POBox]]の発明<br
+/>スマホの[[フリック入力]]の開発<br
+/>[http://WISS.org WISS]設立<br
+/>[https://scrapbox.io/masui/%E5%AF%8C%E8%B1%AA%E7%9A%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 富豪的プログラミング]の提唱
 | workplaces = [[慶應義塾大学湘南藤沢キャンパス]]<br/>[[慶應義塾大学SFC研究所]]
 | alma_mater = [[東京大学]]
 | signature_alt = 
 }}
 
-<!-- <ref name="xxx">{{Cite web|url=http:|title=|date=2012-07-26|accessdate=2013-03-03|publisher=|work=|last=武田|first=敏則}}</ref> -->
-
-'''増井 俊之'''（ますい としゆき、[[1959年]]<ref name="typemag20120726"/>[[7月11日]] - ）は、
-日本の[[工学者]]、ユーザインターフェース研究者<ref name="typemag20120726">{{Cite web|url=http://engineer.typemag.jp/article/ui|title=UI研究の第一人者・増井俊之が目指す「コロンブス指数」の高い発明とは？【連載：匠たちの視点-増井俊之】|date=2012-07-26|accessdate=2013-03-03|publisher=Career Design Center co.,ltd.|work=エンジニアtype|last=武田|first=敏則}}</ref>。
+'''増井 俊之'''（ますい としゆき、[[1959年]][[7月11日]] - ）は、
+日本の[[工学者]]、ユーザインターフェース研究者<ref name="typemag20120726">
+{{Cite web
+|url=http://engineer.typemag.jp/article/ui
+|title=UI研究の第一人者・増井俊之が目指す「コロンブス指数」の高い発明とは？【連載：匠たちの視点-増井俊之】
+|date=2012-07-26
+|accessdate=2013-03-03
+|publisher=Career Design Center co.,ltd.
+|work=エンジニアtype
+|last=武田
+|first=敏則
+}}
+</ref>。
 
 == 概要 ==
 
@@ -30,9 +42,18 @@
 [[ソニーコンピュータサイエンス研究所]]に勤務時、予測型日本語入力システム「[[POBox]]」を発明してソニーで商品化を行ない、
 同手法は携帯電話の日本語入力手法の標準となった。
 
-2006年、[[Steve Jobs]]に招かれて[[Apple Inc.]]に入社し、[[iPhone]]の日本語入力システム([[フリック入力]])を開発した<ref>{{citation|first=礼子|last=岡|url=http://mainichi.jp/select/biz/it/news/20111025mog00m020030000c.html|title=ジョブズ氏を語る：「技術の選択眼、確かだった」増井俊之・慶応義塾大教授|publisher=[[毎日新聞]]|date=2011-10-26|accessdate=2011-10-30}}</ref>。
+2006年、[[Steve Jobs]]に招かれて[[Apple Inc.]]に入社し、[[iPhone]]の日本語入力システム([[フリック入力]])を開発した<ref>
+{{citation
+|first=礼子
+|last=岡
+|url=http://mainichi.jp/select/biz/it/news/20111025mog00m020030000c.html
+|title=ジョブズ氏を語る：「技術の選択眼、確かだった」増井俊之・慶応義塾大教授
+|publisher=[[毎日新聞]]
+|date=2011-10-26
+|accessdate=2011-10-30}}
+</ref>。
 
-画像キャプチャ/アップロードシステム[[Gyazo]]、情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、Nota Inc. のCTOとして運用中。
+画像キャプチャ/アップロードシステム[[Gyazo]]、情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、[[Nota Inc.]] のCTOとして運用中。
 書籍情報共有サービス[http://hondana.org/ 本棚.org]、パスワード管理システム[https://episopass.com/index.html EpisoPass]を運用中。
 
 == 略歴 ==
@@ -134,4 +155,6 @@
 [[Category:東京大学出身の人物]]
 [[Category:1959年生]]
 [[Category:存命人物]]
+
+<!-- <ref name="xxx">{{Cite web|url=http:|title=|date=2012-07-26|accessdate=2013-03-03|publisher=|work=|last=武田|first=敏則}}</ref> -->
 
