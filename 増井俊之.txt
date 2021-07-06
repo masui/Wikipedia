@@ -210,7 +210,7 @@
 * 進歩の止まったコンピュータUIへの疑問を提起<ref>
 {{Cite web
 |url=https://type.jp/et/feature/3627/
-|title=みんなジョブズに騙されている」増井俊之教授が進歩の止まったコンピュータのUIを問い直す【TechLIONレポ】
+|title=「みんなジョブズに騙されている」増井俊之教授が進歩の止まったコンピュータのUIを問い直す【TechLIONレポ】
 |publisher=[[エンジニアType]]
 |date=2014-10-02
 |accessdate=2021-07-06
