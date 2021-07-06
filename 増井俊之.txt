@@ -75,7 +75,17 @@
 * [[2008年]]9月 - [[2009年]]3月 慶應義塾大学 SFC研究所 上席研究員
 * [[2009年]]4月- 慶應義塾大学 環境情報学部 教授 （兼 政策・メディア研究科委員）
 * [[2010年]] - [[2012年]] IPA [[未踏ユース]] プロジェクトマネージャー
-* [[2014年]]11月- [[Nota Inc.]] ([[Gyazo]], [[Scrapbox]], [[Helpfeel]]運営元) CTO<ref>{{Cite web|url=http://thebridge.jp/2014/11/nota-gyazo-funding|title=画像キャプチャのGyazoを運営する京都のNOTA Inc.が、オプト、YJキャピタル、みやこキャピタルから総額200万ドルの資金調達 | date=2014-11-11|accessdate=2015-02-19|publisher=(C) THE BRIDGE.|work=THE BRIDGE|author=江口晋太朗}}</ref>
+* [[2014年]]11月- [[Nota Inc.]] ([[Gyazo]], [[Scrapbox]], [[Helpfeel]]運営元) CTO<ref>
+{{Cite web
+|url=http://thebridge.jp/2014/11/nota-gyazo-funding
+|title=画像キャプチャのGyazoを運営する京都のNOTA Inc.が、オプト、YJキャピタル、みやこキャピタルから総額200万ドルの資金調達
+|date=2014-11-11
+|accessdate=2015-02-19
+|publisher=(C) THE BRIDGE.
+|work=THE BRIDGE
+|last=江口
+|first=晋太朗}}
+</ref>
 * [[2015年]] [[ケンブリッジ大学]] コンピュータサイエンス学部 訪問研究員
 * [[2018年]]-  [https://www.recruit-foundation.org/scholarship/academic2020_sub [[江副記念リクルート財団]] 学術部門 助成事業 選考委員]
 
@@ -98,7 +108,7 @@
 * 2004年 [https://www.ipsj.or.jp/award/yamashita2004-detail.html 情報処理学会 山下記念賞] (近傍関係を活用した情報検索)
 * 2005年 [https://www.mcfund.or.jp/mobilescience/award/no4.html 第4回ドコモ・モバイル・サイエンス賞] 先端技術部門 優秀賞<ref>{{Cite web|url=http://www.itmedia.co.jp/mobile/articles/0510/05/news097.html|title=「第4回ドコモ・モバイル・サイエンス賞」の受賞者を発表|publisher=ITmedia|date=2005-10-05|accessdate=2013-03-03}}</ref>
 * 2021年 情報処理学会 フェロー<ref>{{Cite web|url=https://www.ipsj.or.jp/annai/aboutipsj/fellow/masui.html|title=増井 俊之 君-情報処理学会|accessdate=2021-07-05}}</ref> (コンピュータのユーザインタフェースに関わる幅広い研究及び実用化)
-* 2021年 日本ソフトウェア科学会 基礎研究賞 (予定)
+* 2021年 日本ソフトウェア科学会 基礎研究賞 (広範なユーザインタフェースシステムの研究開発と普及)
 
 == その他 ==
 * 「[[GUI]]ソフトウェアの開発においては、[[プログラマ]]はコンピュータの実行効率よりも、ユーザーの使い勝手や開発者の[[デバッグ]]の容易さを重視すべき」とする[[富豪的プログラミング]]を提唱 (1997)<ref>{{Cite book|和書|title=bit|publisher=共立出版|page=29(1), 36-37|year=1997}}</ref><ref>{{Cite web|url=https://ci.nii.ac.jp/naid/10018045572|title=富豪的プログラミング|accessdate=2021-07-05}}</ref>
