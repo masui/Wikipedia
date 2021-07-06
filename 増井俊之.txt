@@ -40,7 +40,7 @@
 長年にわたって情報検索・テキスト入力・情報視覚化・実世界指向インタフェース・予測インタフェース・認証技術など、
 人間をサポートするコンピュータ技術の研究開発を行ない、論文/著書/雑誌記事/ブログなどで発表している。
 [[ソニーコンピュータサイエンス研究所]]に勤務時、予測型日本語入力システム「[[POBox]]」を発明してソニーで商品化を行ない、
-同手法は携帯電話の日本語入力手法の標準となった。
+同手法は携帯電話の日本語入力手法の[[デファクトスタンダード]]となった。
 
 2006年、[[Steve Jobs]]に招かれて[[Apple Inc.]]に入社し、[[iPhone]]の日本語入力システム([[フリック入力]])を開発した<ref>
 {{citation
@@ -190,7 +190,7 @@
 * [https://github.com/masui/Gyaki Gyaki]
 * [http://www.pitecan.com/DynamicMacro/ Dynamic Macro] (編集操作再実行)
 * [https://github.com/masui/asearch-ruby Asearch] (曖昧検索ライブラリ)
-* 罫線.el
+* keisen.el ([[Emacs]]でカーソルキーで罫線を描く)
 
 {{Normdaten}}
 {{Scientist-stub}}
