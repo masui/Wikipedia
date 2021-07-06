@@ -190,7 +190,7 @@
 * [https://github.com/masui/Gyaki Gyaki]
 * [http://www.pitecan.com/DynamicMacro/ Dynamic Macro] (編集操作再実行)
 * [https://github.com/masui/asearch-ruby Asearch] (曖昧検索ライブラリ)
-* keisen.el ([[Emacs]]でカーソルキーで罫線を描く)
+* [https://github.com/masui/Keisen keisen.el] ([[Emacs]]でカーソルキーで罫線を描く)
 
 {{Normdaten}}
 {{Scientist-stub}}
