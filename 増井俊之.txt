@@ -85,10 +85,23 @@
 |publisher=(C) THE BRIDGE.
 |work=THE BRIDGE
 |last=江口
-|first=晋太朗}}
+|first=晋太朗
+}}
 </ref>
-* [[2015年]] [[ケンブリッジ大学]] コンピュータサイエンス学部 訪問研究員
-* [[2018年]]-  [https://www.recruit-foundation.org/scholarship/academic2020_sub [[江副記念リクルート財団]] 学術部門 助成事業 選考委員]
+* [[2015年]] [[ケンブリッジ大学]] コンピュータサイエンス学部 訪問研究員<ref>
+{{Cite web
+|url=http://mypico.org/people/
+|title=Pico people
+|accessdate=2021-07-06
+}}
+</ref>
+* [[2018年]]- [[江副記念リクルート財団]] 学術部門 助成事業 選考委員<ref>
+{{Cite web
+|url=https://www.recruit-foundation.org/scholarship/academic2020_sub
+|title=2020年度 学術部門 助成事業募集要項｜公益財団法人江副記念リクルート財団｜Ezoe Memorial Recruit Foundation
+|accessdate=2021-07-06
+}}
+</ref>
 
 == 著書 ==
 
