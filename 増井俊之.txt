@@ -175,7 +175,6 @@
 |date=2012-05-15
 |accessdate=2021-07-06
 }}
-<<<<<<< HEAD
 </ref><ref>
 {{Cite web
 |url=https://www.youtube.com/watch?v=1di7_2J8X0Y
@@ -194,9 +193,6 @@
 |accessdate=2021-07-06
 }}
 </ref>。
-=======
-</ref>
->>>>>>> 29d49b92cb538b5b23faf789deb9c27eb90db8bd
 
 == 脚注 ==
 {{脚注ヘルプ}}
@@ -210,15 +206,8 @@
 ** [https://scrapbox.io/masui/1978%E5%B9%B4%E3%81%ABI%2FO%E3%81%AB%E6%9B%B8%E3%81%84%E3%81%9F%E8%A8%98%E4%BA%8B マイコンを使ったTVゲーム] I/O 1978
 * [https://scrapbox.io/masui/論文リスト 論文リスト]
 * [http://pitecan.com/ Pitecan.com]
-<<<<<<< HEAD
-
-== Webサービス==
-=======
-* [http://dictionary.sanseido-publ.co.jp/wp/2007/10/04/%e5%8b%89%e5%bc%b7%e5%b7%a5%e5%ad%a6-web%e6%99%82%e4%bb%a3%e3%81%ae%e5%ad%a6%e7%bf%92%e6%b3%95%e3%80%80%e7%ac%ac1%e5%9b%9e/ Sanseido Word-Wise Webでの連載]
-* [https://www.youtube.com/watch?v=1di7_2J8X0Y 実世界コピペ] ([[実世界GUI]]の例)
 
 == Webサービス ==
->>>>>>> 29d49b92cb538b5b23faf789deb9c27eb90db8bd
 * [[Nota Inc.]]での運用
 ** [https://gyazo.com/ Gyazo] (画像キャプチャ/アップロードシステム)
 ** [https://scrapbox.io/ Scrapbox] (Web上の情報整理/共有システム)
@@ -256,5 +245,3 @@
 [[Category:東京大学出身の人物]]
 [[Category:1959年生]]
 [[Category:存命人物]]
-
-<!-- <ref name="xxx">{{Cite web|url=http:|title=|date=2012-07-26|accessdate=2013-03-03|publisher=|work=|last=武田|first=敏則}}</ref> -->
