@@ -153,6 +153,15 @@
 * 簡易音楽記述言語([[MML]])で利用される「[[ストトン表記]]」を提唱<ref>{{Cite web | url=http://pitecan.com/Sutoton/ | title=ストトン表記による楽音生成|accessdate=2021-07-05}}</ref><ref>{{Cite web | url= https://ci.nii.ac.jp/naid/110006342648/ | title=教育用プログラミング言語と授業利用 : 5．情報教育における音楽の利用，音楽教育における情報教育の利用 | accessdate=2021-07-05}}</ref>
 * ユーザインタフェースの研究者が議論を行なうためのワークショップ「[http://WISS.org WISS]」(Workshop on Interactive Systems and Software)を設立 (1993)
 * ITの発明おじさんと呼ばれている<ref name="hatsumeiojisan">{{Cite web|url=https://www.itmedia.co.jp/bizid/articles/0608/21/news049.html|title=ITの「発明おじさん」――産業技術総合研究所・増井俊之さん|date=2006-08-21|accessdate=2021-07-06|publisher=ITmedia|last=吉田|first=有子}}</ref>。
+* 壁や机の上でパソコンと同じような[[GUI]]操作を可能にする[[実世界GUI]]を提案<ref>
+{{Cite web
+|url=https://xtech.nikkei.com/it/article/COLUMN/20120501/394401/
+|title=＜優秀賞＞実世界GUI基盤「GoldFish」、ソーシャルブラウザ「jigbrowser+」
+|publisher=[[日経クロステック]]
+|date=2012-05-15
+|accessdate=2021-07-06
+}}
+</ref>。
 
 ==脚注==
 {{脚注ヘルプ}}
@@ -167,6 +176,7 @@
 * [https://scrapbox.io/masui/論文リスト 論文リスト]
 * [http://pitecan.com/ Pitecan.com]
 * [http://dictionary.sanseido-publ.co.jp/wp/2007/10/04/%e5%8b%89%e5%bc%b7%e5%b7%a5%e5%ad%a6-web%e6%99%82%e4%bb%a3%e3%81%ae%e5%ad%a6%e7%bf%92%e6%b3%95%e3%80%80%e7%ac%ac1%e5%9b%9e/ Sanseido Word-Wise Webでの連載]
+* [https://www.youtube.com/watch?v=1di7_2J8X0Y 実世界コピペ] ([[実世界GUI]]の例)
 
 == Webサービス==
 * [[Nota Inc.]]での運用
