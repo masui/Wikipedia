@@ -163,7 +163,7 @@
 | title=教育用プログラミング言語と授業利用 : 5．情報教育における音楽の利用，音楽教育における情報教育の利用
 | accessdate=2021-07-05
 }}
-</ref>
+</ref>。
 * ユーザインタフェースの研究者が議論を行なうためのワークショップ「[http://WISS.org WISS]」(Workshop on Interactive Systems and Software)を設立 (1993)
 * 『ITの発明おじさん』と呼ばれている<ref name="hatsumeiojisan">
 {{Cite web
@@ -185,6 +185,15 @@
 |accessdate=2021-07-06
 }}
 </ref>。
+* 進歩の止まったコンピュータUIへの疑問を提起<ref>
+{{Cite web
+|url=https://type.jp/et/feature/3627/
+|title=みんなジョブズに騙されている」増井俊之教授が進歩の止まったコンピュータのUIを問い直す【TechLIONレポ】
+|publisher=[[エンジニアType]]
+|date=2014-10-02
+|accessdate=2021-07-06
+}}
+</ref>。
 
 ==脚注==
 {{脚注ヘルプ}}
@@ -200,6 +209,7 @@
 * [http://pitecan.com/ Pitecan.com]
 * [http://dictionary.sanseido-publ.co.jp/wp/2007/10/04/%e5%8b%89%e5%bc%b7%e5%b7%a5%e5%ad%a6-web%e6%99%82%e4%bb%a3%e3%81%ae%e5%ad%a6%e7%bf%92%e6%b3%95%e3%80%80%e7%ac%ac1%e5%9b%9e/ Sanseido Word-Wise Webでの連載]
 * [https://www.youtube.com/watch?v=1di7_2J8X0Y 実世界コピペ] ([[実世界GUI]]の例)
+
 
 == Webサービス==
 * [[Nota Inc.]]での運用
