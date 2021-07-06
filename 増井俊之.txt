@@ -18,8 +18,7 @@
 | signature_alt = 
 }}
 
-'''増井 俊之'''（ますい としゆき、[[1959年]][[7月11日]] - ）は、
-日本の[[工学者]]、ユーザインターフェース研究者<ref name="typemag20120726">
+'''増井 俊之'''（ますい としゆき、[[1959年]][[7月11日]] - ）は、日本の[[工学者]]、ユーザインターフェース研究者<ref name="typemag20120726">
 {{Cite web
 |url=http://engineer.typemag.jp/article/ui
 |title=UI研究の第一人者・増井俊之が目指す「コロンブス指数」の高い発明とは？【連載：匠たちの視点-増井俊之】
@@ -34,13 +33,9 @@
 
 == 概要 ==
 
-1984年[[東京大学]]大学院工学系研究科電子工学専門課程修士課程修了。工学博士。
-2009年より[[慶應義塾大学]][[環境情報学部]]教授。
+1984年[[東京大学]]大学院工学系研究科電子工学専門課程修士課程修了。工学博士。2009年より[[慶應義塾大学]][[環境情報学部]]教授。
 
-長年にわたって情報検索・テキスト入力・情報視覚化・実世界指向インタフェース・予測インタフェース・認証技術など、
-人間をサポートするコンピュータ技術の研究開発を行ない、論文/著書/雑誌記事/ブログなどで発表している。
-[[ソニーコンピュータサイエンス研究所]]に勤務時、予測型日本語入力システム「[[POBox]]」を発明してソニーで商品化を行ない、
-同手法は携帯電話の日本語入力手法の[[デファクトスタンダード]]となった。
+長年にわたって情報検索・テキスト入力・情報視覚化・実世界指向インタフェース・予測インタフェース・認証技術など、人間をサポートするコンピュータ技術の研究開発を行ない、論文/著書/雑誌記事/ブログなどで発表している。[[ソニーコンピュータサイエンス研究所]]に勤務時、予測型日本語入力システム「[[POBox]]」を発明してソニーで商品化を行ない、同手法は携帯電話の日本語入力手法の[[デファクトスタンダード]]となった。
 
 2006年、[[Steve Jobs]]に招かれて[[Apple Inc.]]に入社し、[[iPhone]]の日本語入力システム([[フリック入力]])を開発した<ref>
 {{citation
@@ -53,8 +48,7 @@
 |accessdate=2011-10-30}}
 </ref>。
 
-画像キャプチャ/アップロードシステム[[Gyazo]]、Web上の情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、[[Nota Inc.]] のCTOとして運用中。
-書籍情報共有サービス[http://hondana.org/ 本棚.org]、パスワード管理システム[https://episopass.com/index.html EpisoPass]を運用中。
+画像キャプチャ/アップロードシステム[[Gyazo]]、Web上の情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、[[Nota Inc.]] のCTOとして運用中。書籍情報共有サービス[http://hondana.org/ 本棚.org]、パスワード管理システム[https://episopass.com/index.html EpisoPass]を運用中。
 
 == 略歴 ==
 * [[1959年]] [[兵庫県]]に生まれる
@@ -149,33 +143,30 @@
 |url=https://ci.nii.ac.jp/naid/10018045572
 |title=富豪的プログラミング
 |accessdate=2021-07-05
-}}
-</ref>
+}}</ref>
 * 簡易音楽記述言語([[MML]])で利用される「[[ストトン表記]]」を提唱<ref>
 {{Cite web
-| url=http://pitecan.com/Sutoton/
-| title=ストトン表記による楽音生成
-|accessdate=2021-07-05
-}}
+ | url=http://pitecan.com/Sutoton/
+ | title=ストトン表記による楽音生成|accessdate=2021-07-05}}
 </ref><ref>
 {{Cite web
-| url= https://ci.nii.ac.jp/naid/110006342648/
-| title=教育用プログラミング言語と授業利用 : 5．情報教育における音楽の利用，音楽教育における情報教育の利用
-| accessdate=2021-07-05
-}}
-</ref>。
+ | url= https://ci.nii.ac.jp/naid/110006342648/
+ | title=教育用プログラミング言語と授業利用 : 5．情報教育における音楽の利用，音楽教育における情報教育の利用
+ | accessdate=2021-07-05}}
+</ref>
+
 * ユーザインタフェースの研究者が議論を行なうためのワークショップ「[http://WISS.org WISS]」(Workshop on Interactive Systems and Software)を設立 (1993)
 * 『ITの発明おじさん』と呼ばれている<ref name="hatsumeiojisan">
 {{Cite web
-|url=https://www.itmedia.co.jp/bizid/articles/0608/21/news049.html
-|title=ITの「発明おじさん」――産業技術総合研究所・増井俊之さ
-ん|date=2006-08-21
-|accessdate=2021-07-06
-|publisher=ITmedia
-|last=吉田
-|first=有子
-}}
+ |url=https://www.itmedia.co.jp/bizid/articles/0608/21/news049.html
+ |title=ITの「発明おじさん」――産業技術総合研究所・増井俊之さん
+ |date=2006-08-21
+ |accessdate=2021-07-06
+ |publisher=ITmedia
+ |last=吉田
+ |first=有子}}
 </ref>。
+
 * 壁や机の上でパソコンと同じような[[GUI]]操作を可能にする[[実世界GUI]]を提案<ref>
 {{Cite web
 |url=https://xtech.nikkei.com/it/article/COLUMN/20120501/394401/
@@ -184,18 +175,9 @@
 |date=2012-05-15
 |accessdate=2021-07-06
 }}
-</ref>。
-* 進歩の止まったコンピュータUIへの疑問を提起<ref>
-{{Cite web
-|url=https://type.jp/et/feature/3627/
-|title=みんなジョブズに騙されている」増井俊之教授が進歩の止まったコンピュータのUIを問い直す【TechLIONレポ】
-|publisher=[[エンジニアType]]
-|date=2014-10-02
-|accessdate=2021-07-06
-}}
-</ref>。
+</ref>
 
-==脚注==
+== 脚注 ==
 {{脚注ヘルプ}}
 {{Reflist}}
 
@@ -210,8 +192,7 @@
 * [http://dictionary.sanseido-publ.co.jp/wp/2007/10/04/%e5%8b%89%e5%bc%b7%e5%b7%a5%e5%ad%a6-web%e6%99%82%e4%bb%a3%e3%81%ae%e5%ad%a6%e7%bf%92%e6%b3%95%e3%80%80%e7%ac%ac1%e5%9b%9e/ Sanseido Word-Wise Webでの連載]
 * [https://www.youtube.com/watch?v=1di7_2J8X0Y 実世界コピペ] ([[実世界GUI]]の例)
 
-
-== Webサービス==
+== Webサービス ==
 * [[Nota Inc.]]での運用
 ** [https://gyazo.com/ Gyazo] (画像キャプチャ/アップロードシステム)
 ** [https://scrapbox.io/ Scrapbox] (Web上の情報整理/共有システム)
@@ -251,4 +232,3 @@
 [[Category:存命人物]]
 
 <!-- <ref name="xxx">{{Cite web|url=http:|title=|date=2012-07-26|accessdate=2013-03-03|publisher=|work=|last=武田|first=敏則}}</ref> -->
-
