@@ -89,6 +89,14 @@
 |last=江口
 |first=晋太朗
 }}
+</ref><ref>
+{{Cite web
+|url=https://tomoruba.eiicon.net/articles/2511
+|title=検索型FAQ SaaS「Helpfeel」を提供するNota、5億円を調達
+|author=TOMORUBA編集部
+|date=2021-03-05
+|accessdate=2021-07-07
+}}
 </ref>
 * [[2015年]] [[ケンブリッジ大学]] コンピュータサイエンス学部 訪問研究員<ref>
 {{Cite web
@@ -161,7 +169,7 @@
 <!-- * 2021年 日本ソフトウェア科学会 基礎研究賞 (広範なユーザインタフェースシステムの研究開発と普及) -->
 
 == その他 ==
-* 「[[GUI]]ソフトウェアの開発においては、[[プログラマ]]はコンピュータの実行効率よりも、ユーザーの使い勝手や開発者の[[デバッグ]]の容易さを重視すべき」とする[[富豪的プログラミング]]を提唱 (1997)<ref>
+* 「[[GUI]]ソフトウェアの開発においては、[[プログラマ]]はコンピュータの実行効率よりも、ユーザーの使い勝手や開発者の[[デバッグ]]の容易さを重視すべき」とする'''[[富豪的プログラミング]]'''を提唱 (1997)<ref>
 {{Cite book
 |和書
 |title=bit
@@ -173,16 +181,6 @@
 |title=富豪的プログラミング
 |accessdate=2021-07-05
 }}</ref>
-* 簡易音楽記述言語([[MML]])で利用される「[[ストトン表記]]」を提唱<ref>
-{{Cite web
- | url=http://pitecan.com/Sutoton/
- | title=ストトン表記による楽音生成|accessdate=2021-07-05}}
-</ref><ref>
-{{Cite web
- | url= https://ci.nii.ac.jp/naid/110006342648/
- | title=教育用プログラミング言語と授業利用 : 5．情報教育における音楽の利用，音楽教育における情報教育の利用
- | accessdate=2021-07-05}}
-</ref>
 * ユーザインタフェースの研究者が議論を行なうためのワークショップ「[http://WISS.org WISS]」(Workshop on Interactive Systems and Software)を設立 (1993)
 * 『ITの発明おじさん』と呼ばれている<ref name="hatsumeiojisan">
 {{Cite web
@@ -194,7 +192,7 @@
  |last=吉田
  |first=有子}}
 </ref>
-* 壁や机の上でパソコンと同じような[[GUI]]操作を可能にする[[実世界GUI]]を提案<ref>
+* 壁や机の上でパソコンと同じような[[GUI]]操作を可能にする'''[[実世界GUI]]'''を提案<ref>
 {{Cite web
 |url=https://xtech.nikkei.com/it/article/COLUMN/20120501/394401/
 |title=＜優秀賞＞実世界GUI基盤「GoldFish」、ソーシャルブラウザ「jigbrowser+」
@@ -210,6 +208,16 @@
 |work=ITホワイトボックス
 |accessdate=2021-07-06
 }}
+</ref>
+* 簡易音楽記述言語([[MML]])で利用される「'''[[ストトン表記]]'''」を提唱<ref>
+{{Cite web
+ | url=http://pitecan.com/Sutoton/
+ | title=ストトン表記による楽音生成|accessdate=2021-07-05}}
+</ref><ref>
+{{Cite web
+ | url= https://ci.nii.ac.jp/naid/110006342648/
+ | title=教育用プログラミング言語と授業利用 : 5．情報教育における音楽の利用，音楽教育における情報教育の利用
+ | accessdate=2021-07-05}}
 </ref>
 * 進歩の止まったコンピュータUIへの疑問を提起<ref>
 {{Cite web
