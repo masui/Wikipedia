@@ -56,7 +56,7 @@
 |accessdate=2011-10-30}}
 </ref>。
 
-画像キャプチャ/アップロードシステム[[Gyazo]]、Web上の情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、[[Nota Inc.]] のCTOとして運用中。書籍情報共有サービス[http://hondana.org/ 本棚.org]、パスワード管理システム[https://episopass.com/index.html EpisoPass]を運用中。
+画像キャプチャ/アップロードシステム[[Gyazo]]、Web上の情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、[[Nota株式会社]] のCTOとして運用中。書籍情報共有サービス[http://hondana.org/ 本棚.org]、パスワード管理システム[https://episopass.com/index.html EpisoPass]を運用中。
 
 == 略歴 ==
 * [[1959年]] [[兵庫県]]に生まれる
@@ -78,7 +78,7 @@
 * [[2008年]]9月 - [[2009年]]3月 慶應義塾大学 SFC研究所 上席研究員
 * [[2009年]]4月- 慶應義塾大学 環境情報学部 教授 （兼 政策・メディア研究科委員）
 * [[2010年]] - [[2012年]] IPA [[未踏ユース]] プロジェクトマネージャー
-* [[2014年]]11月- [[Nota Inc.]] ([[Gyazo]], [[Scrapbox]], [[Helpfeel]]運営元) CTO<ref>
+* [[2014年]]11月- [[Nota株式会社]] ([[Gyazo]], [[Scrapbox]], [[Helpfeel]]運営元) CTO<ref>
 {{Cite web
 |url=http://thebridge.jp/2014/11/nota-gyazo-funding
 |title=画像キャプチャのGyazoを運営する京都のNOTA Inc.が、オプト、YJキャピタル、みやこキャピタルから総額200万ドルの資金調達
@@ -251,7 +251,7 @@
 * [http://pitecan.com/ Pitecan.com]
 
 == Webサービス ==
-* [[Nota Inc.]]での運用
+* [[Nota株式会社]]での運用
 ** [https://gyazo.com/ Gyazo] (画像キャプチャ/アップロードシステム)
 ** [https://scrapbox.io/ Scrapbox] (Web上の情報整理/共有システム)
 ** [https://helpfeel.com/ Helpfeel] (ヘルプ支援システム)
