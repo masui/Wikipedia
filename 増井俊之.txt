@@ -183,7 +183,6 @@
  | title=教育用プログラミング言語と授業利用 : 5．情報教育における音楽の利用，音楽教育における情報教育の利用
  | accessdate=2021-07-05}}
 </ref>
-
 * ユーザインタフェースの研究者が議論を行なうためのワークショップ「[http://WISS.org WISS]」(Workshop on Interactive Systems and Software)を設立 (1993)
 * 『ITの発明おじさん』と呼ばれている<ref name="hatsumeiojisan">
 {{Cite web
@@ -194,8 +193,7 @@
  |publisher=ITmedia
  |last=吉田
  |first=有子}}
-</ref>。
-
+</ref>
 * 壁や机の上でパソコンと同じような[[GUI]]操作を可能にする[[実世界GUI]]を提案<ref>
 {{Cite web
 |url=https://xtech.nikkei.com/it/article/COLUMN/20120501/394401/
@@ -212,7 +210,7 @@
 |work=ITホワイトボックス
 |accessdate=2021-07-06
 }}
-</ref>。
+</ref>
 * 進歩の止まったコンピュータUIへの疑問を提起<ref>
 {{Cite web
 |url=https://type.jp/et/feature/3627/
@@ -221,7 +219,14 @@
 |date=2014-10-02
 |accessdate=2021-07-06
 }}
-</ref>。
+</ref>
+* 「[[ピッツバーグ]]便利帳」を作成 (1991)<ref>
+{{Cite web
+|url=https://sites.google.com/site/pghbenricho/
+|title=ピッツバーグ便利帳
+|accessdate=2021-07-07
+}}
+</ref>
 
 == 脚注 ==
 {{脚注ヘルプ}}
