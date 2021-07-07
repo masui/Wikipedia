@@ -122,7 +122,13 @@
 
 == 受賞 ==
 * 1997年 情報処理学会 山内賞 (なめらかなユーザインタフェース)
-* 2001年 ソニー株式会社 「大吟醸賞」(社長賞)
+* 2001年 ソニー株式会社 「大吟醸賞」(社長賞)<ref>
+{{Cite web
+|url=https://i.gyazo.com/8b9a3f7157950d5f845edb1b214dd2ce.jpg
+|title=Sony FY2000 CEO Award 特別賞
+|accessdate=2021-07-07
+}}
+</ref>
 * 2004年 情報処理学会 山下記念賞 (近傍関係を活用した情報検索)<ref>
 {{Cite web
 |url=https://www.ipsj.or.jp/award/yamasita2004-detail.html
