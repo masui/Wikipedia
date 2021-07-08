@@ -235,6 +235,11 @@
 |accessdate=2021-07-07
 }}
 </ref>
+* 各種プラットフォームフォーム用の日本語入力システム([[IME]])を公開中
+** Mac用日本語入力システム「[http://masui.github.io/GyaimMotion/ Gyaim]」
+** Android用日本語入力システム「[https://scrapbox.io/masui-Slime/ Slime]」
+** Chromebook用日本語入力システム「[https://masui.github.io/Chaim/ Chaim]」
+** 日本語入力用辞書 [https://scrapbox.io/Gictionary/ Gictionary]
 
 == 脚注 ==
 {{脚注ヘルプ}}
