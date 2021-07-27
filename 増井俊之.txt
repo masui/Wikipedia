@@ -129,7 +129,13 @@
 * 『Your Wish is My Command: Programming By Example』 ISBN 1558606882 2001年 (共著)
 
 == 受賞 ==
-* 1997年 情報処理学会 山内賞 (なめらかなユーザインタフェース)
+* 1997年 情報処理学会 山内奨励賞 (なめらかなユーザインタフェース)<ref>
+{{Cite web
+|url=https://prosym.org/awards/
+|title=情報処理学会 山内奨励賞 (なめらかなユーザインタフェース)
+|accessdate=2021-07-27
+}}
+</ref>
 * 2001年 ソニー株式会社 「大吟醸賞」(社長賞)<ref>
 {{Cite web
 |url=https://i.gyazo.com/8b9a3f7157950d5f845edb1b214dd2ce.jpg
