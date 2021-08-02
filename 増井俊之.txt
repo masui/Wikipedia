@@ -18,7 +18,7 @@
 | signature_alt = 
 }}
 
-'''増井 俊之'''（ますい としゆき、[[1959年]][[7月11日]] - ）は、日本の[[工学者]]、ユーザインターフェース研究者<ref name="typemag20120726">
+'''増井 俊之'''（ますい としゆき、[[1959年]][[7月11日]] - ）は、日本の[[情報工学者]]、ユーザインターフェース研究者<ref name="typemag20120726">
 {{Cite web
 |url=http://engineer.typemag.jp/article/ui
 |title=UI研究の第一人者・増井俊之が目指す「コロンブス指数」の高い発明とは？【連載：匠たちの視点-増井俊之】
@@ -290,7 +290,7 @@
 
 {{DEFAULTSORT:ますい としゆき}}
 [[Category:日本の計算機科学者]]
-[[Category:日本の電子工学者]]
+[[Category:日本の情報工学者]]
 [[Category:富士通の人物]]
 [[Category:Apple Computerの人物]]
 [[Category:産業技術総合研究所の人物]]
