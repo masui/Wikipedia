@@ -166,6 +166,12 @@
 |accessdate=2013-03-03
 }}
 </ref>
+* 2012年 Android Application Award 2012 アプリ/Webサービス部門 優秀賞 (GoldFish)<ref>
+{{Cite web
+|url=https://www.nikkeibp.co.jp/atcl/newsrelease/corp/newsrelease20120425/
+|title=「Android Application Award 2012」受賞作品を発表
+|accessdate=2021-08-03}}
+</ref>
 * 2021年 情報処理学会 フェロー (コンピュータのユーザインタフェースに関わる幅広い研究及び実用化)<ref>
 {{Cite web
 |url=https://www.ipsj.or.jp/annai/aboutipsj/fellow/masui.html
