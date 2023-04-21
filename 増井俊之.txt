@@ -177,11 +177,17 @@
 |title=増井 俊之 君-情報処理学会
 |accessdate=2021-07-05}}
 </ref>
-* 2021年 日本ソフトウェア科学会 基礎研究賞 (ユーザインタフェースシステムおよび予測型日本語入力システムに関する研究))<ref>
+* 2021年 日本ソフトウェア科学会 基礎研究賞 (ユーザインタフェースシステムおよび予測型日本語入力システムに関する研究)<ref>
 {{Cite web
-|url=https://www.jssst.or.jp/files/user/%E7%B7%8F%E4%BC%9A/%E6%97%A5%E6%9C%AC%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E7%A7%91%E5%AD%A6%E4%BC%9A%202021%20%E5%B9%B4%E5%BA%A6%E5%AE%9A%E6%99%82%E7%A4%BE%E5%93%A1%E7%B7%8F%E4%BC%9A%E8%B3%87%E6%96%99.pdf
-|title=一般社団法人日本ソフトウェア科学会 2021 年度定時社員総会
-|accessdate=2021-09-04}}
+|url=https://www.jssst.or.jp/award/detail/kiso2020.html
+|title=2020年度基礎研究賞
+|accessdate=2021-12-29}}
+</ref>
+* 2021年 グッドデザイン賞 (Helpfeel)<ref>
+{{Cite web
+|url=https://www.g-mark.org/award/quick/52846?token=DfwUTM66rA
+|title=2021年度 グッドデザイン賞
+|accessdate=2021-12-29}}
 </ref>
 
 == その他 ==
