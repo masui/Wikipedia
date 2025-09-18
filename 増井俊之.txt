@@ -18,7 +18,7 @@
 }}
 
 '''増井 俊之'''（ますい としゆき、[[1959年]][[7月11日]] - ）は、日本の[[情報工学者]]、[[ユーザインタフェース]]研究者<ref name="typemag20120726">
-{{Cite web
+{{Cite web|和書
 |url=http://engineer.typemag.jp/article/ui
 |title=UI研究の第一人者・増井俊之が目指す「コロンブス指数」の高い発明とは？【連載：匠たちの視点-増井俊之】
 |date=2012-07-26
@@ -35,7 +35,7 @@
 
 長年にわたって情報検索・テキスト入力・情報視覚化・実世界指向インタフェース・予測インタフェース・認証技術など、人間をサポートするコンピュータ技術の研究開発を行ない、論文/著書/雑誌記事/ブログなどで発表している。[[ソニーコンピュータサイエンス研究所]]に勤務時、予測型日本語入力システム「[[POBox]]」を発明してソニーで商品化を行ない、同手法は携帯電話の日本語入力手法の[[デファクトスタンダード]]となった。
 
-2006年、[[Steve Jobs]]に招かれて[[Apple Inc.]]に入社し<ref>
+2006年、[[Steve Jobs]]に招かれて[[Apple]]に入社し<ref>
 {{citation
 |url=https://scrapbox.io/masui/ジョブズたんとの遭遇
 |title=ジョブズたんとの遭遇
@@ -46,19 +46,19 @@
 {{citation
 |first=礼子
 |last=岡
-|url=http://mainichi.jp/select/biz/it/news/20111025mog00m020030000c.html
+|url=https://web.archive.org/web/20111028171021/http://mainichi.jp/select/biz/it/news/20111025mog00m020030000c.html
 |title=ジョブズ氏を語る：「技術の選択眼、確かだった」増井俊之・慶応義塾大教授
 |publisher=[[毎日新聞]]
 |date=2011-10-26
 |accessdate=2011-10-30}}
 </ref>。
 
-画像キャプチャ/アップロードシステム[[Gyazo]]、Web上の情報整理/共有システム[https://scrapbox.io Scrapbox]、ヘルプ支援システム[https://helpfeel.com/ Helpfeel] を発明し、[[Nota株式会社]] のCTOとして運用中。書籍情報共有サービス[http://hondana.org/ 本棚.org]、パスワード管理システム[https://episopass.com/index.html EpisoPass]を運用中。
+画像キャプチャ/アップロードシステム「[[Gyazo]]」、Web上の情報整理/共有システム「Scrapbox」、ヘルプ支援システム「Helpfeel」を開発し、[[Nota株式会社]] のCTOとして運用中。書籍情報共有サービス「本棚.org」、パスワード管理システム「EpisoPass」を運用中。
 
 == 略歴 ==
 * [[1959年]] [[兵庫県]][[西宮市]]に生まれる
 * [[1978年]] 私立[[灘高等学校]]卒業
-* [[1982年]] [[東京大学]][[工学部]]電子工学科卒業
+* [[1982年]] [[東京大学工学部]]電子工学科卒業
 * [[1984年]] 東京大学大学院工学系研究科電子工学専攻 修士課程修了 
 * [[1984年]]4月 - [[1986年]]3月 [[富士通]]株式会社 半導体事業部
 * [[1986年]]4月 - [[1995年]]12月 [[シャープ]]株式会社
@@ -76,7 +76,7 @@
 * [[2009年]]4月 - 慶應義塾大学 環境情報学部 教授 （兼 政策・メディア研究科委員）
 * [[2010年]] - [[2012年]] IPA [[未踏ユース]] プロジェクトマネージャー
 * [[2014年]]11月 - [[Nota株式会社]] ([[Gyazo]], [[Scrapbox]], [[Helpfeel]]運営元) CTO<ref>
-{{Cite web
+{{Cite web|和書
 |url=http://thebridge.jp/2014/11/nota-gyazo-funding
 |title=画像キャプチャのGyazoを運営する京都のNOTA Inc.が、オプト、YJキャピタル、みやこキャピタルから総額200万ドルの資金調達
 |date=2014-11-11
@@ -87,7 +87,7 @@
 |first=晋太朗
 }}
 </ref><ref>
-{{Cite web
+{{Cite web|和書
 |url=https://tomoruba.eiicon.net/articles/2511
 |title=検索型FAQ SaaS「Helpfeel」を提供するNota、5億円を調達
 |author=TOMORUBA編集部
@@ -105,7 +105,7 @@
 }}
 </ref>
 * [[2018年]] - [[江副記念リクルート財団]] 学術部門 助成事業 選考委員<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.recruit-foundation.org/scholarship/academic2020_sub
 |title=2020年度 学術部門 助成事業募集要項｜公益財団法人江副記念リクルート財団｜Ezoe Memorial Recruit Foundation
 |accessdate=2021-07-06
@@ -133,7 +133,7 @@
 
 == 受賞 ==
 * 1997年 情報処理学会 山内奨励賞 (なめらかなユーザインタフェース)<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://prosym.org/awards/
 |title=情報処理学会 山内奨励賞 (なめらかなユーザインタフェース)
 |accessdate=2021-07-27
@@ -147,7 +147,7 @@
 }}
 </ref>
 * 2004年 情報処理学会 山下記念賞 (近傍関係を活用した情報検索)<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.ipsj.or.jp/award/yamasita2004-detail.html
 |title=情報処理学会 山下記念賞
 |publisher=情報処理学会
@@ -155,13 +155,13 @@
 }}
 </ref>
 * 2005年 第4回ドコモ・モバイル・サイエンス賞 先端技術部門 優秀賞<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.mcfund.or.jp/mobilescience/award/no4.html
 |title=ドコモ・モバイル・サイエンス賞 受賞者・授賞式 モバイル環境における先進的ユーザインタフェース手法の研究開発
 |publisher=NPO法人 モバイル・コミュニケーション・ファンド
 |accessdate=2021-07-07
 }}</ref><ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.itmedia.co.jp/mobile/articles/0510/05/news097.html
 |title=「第4回ドコモ・モバイル・サイエンス賞」の受賞者を発表
 |publisher=ITmedia
@@ -170,31 +170,31 @@
 }}
 </ref>
 * 2012年 Android Application Award 2012 アプリ/Webサービス部門 優秀賞 (GoldFish)<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.nikkeibp.co.jp/atcl/newsrelease/corp/newsrelease20120425/
 |title=「Android Application Award 2012」受賞作品を発表
 |accessdate=2021-08-03}}
 </ref>
 * 2021年 情報処理学会 フェロー (コンピュータのユーザインタフェースに関わる幅広い研究及び実用化)<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.ipsj.or.jp/annai/aboutipsj/fellow/masui.html
 |title=増井 俊之 君-情報処理学会
 |accessdate=2021-07-05}}
 </ref>
 * 2021年 日本ソフトウェア科学会 基礎研究賞 (ユーザインタフェースシステムおよび予測型日本語入力システムに関する研究)<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.jssst.or.jp/award/detail/kiso2020.html
 |title=2020年度基礎研究賞
 |accessdate=2021-12-29}}
 </ref>
 * 2021年 グッドデザイン賞 (Helpfeel)<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.g-mark.org/award/quick/52846?token=DfwUTM66rA
 |title=2021年度 グッドデザイン賞
 |accessdate=2021-12-29}}
 </ref>
 * 2022年度 ソフトウェアジャパンアワード (Helpfeel社の貢献)<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.ipsj.or.jp/award/softwarejapan_award.html
 |title=2022年度ソフトウエアジャパンアワード
 |accessdate=2023-4-24}}
@@ -208,14 +208,14 @@
 |publisher=共立出版
 |page=29(1), 36-37
 |year=1997}}</ref><ref>
-{{Cite web
-|url=https://ci.nii.ac.jp/naid/10018045572
+{{Cite web|和書
+|url=https://cir.nii.ac.jp/crid/1573105975219457152
 |title=富豪的プログラミング
 |accessdate=2021-07-05
 }}</ref>
-* ユーザインタフェースの研究者が議論を行なうためのワークショップ「[http://WISS.org WISS]」(Workshop on Interactive Systems and Software)を設立 (1993)
+* ユーザインタフェースの研究者が議論を行なうためのワークショップ「WISS」(Workshop on Interactive Systems and Software)を設立 (1993)
 * 『ITの発明おじさん』と呼ばれている<ref name="hatsumeiojisan">
-{{Cite web
+{{Cite web|和書
  |url=https://www.itmedia.co.jp/bizid/articles/0608/21/news049.html
  |title=ITの「発明おじさん」――産業技術総合研究所・増井俊之さん
  |date=2006-08-21
@@ -225,7 +225,7 @@
  |first=有子}}
 </ref>
 * 壁や机の上でパソコンと同じような[[GUI]]操作を可能にする'''[[実世界GUI]]'''を提案<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://xtech.nikkei.com/it/article/COLUMN/20120501/394401/
 |title=＜優秀賞＞実世界GUI基盤「GoldFish」、ソーシャルブラウザ「jigbrowser+」
 |publisher=[[日経クロステック]]
@@ -233,7 +233,7 @@
 |accessdate=2021-07-06
 }}
 </ref><ref>
-{{Cite web
+{{Cite web|和書
 |url=https://www.youtube.com/watch?v=1di7_2J8X0Y
 |title=実世界コピペデモ動画
 |publisher=NHK
@@ -242,36 +242,31 @@
 }}
 </ref>
 * 簡易音楽記述言語([[MML]])で利用される「'''[[ストトン表記]]'''」を提唱<ref>
-{{Cite web
+{{Cite web|和書
  | url=http://pitecan.com/Sutoton/
  | title=ストトン表記による楽音生成|accessdate=2021-07-05}}
 </ref><ref>
-{{Cite web
- | url= https://ci.nii.ac.jp/naid/110006342648/
+{{Cite web|和書
+ | url= https://cir.nii.ac.jp/crid/1050845762828196096
  | title=教育用プログラミング言語と授業利用 : 5．情報教育における音楽の利用，音楽教育における情報教育の利用
  | accessdate=2021-07-05}}
 </ref>
 * 進歩の止まったコンピュータUIへの疑問を提起<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://type.jp/et/feature/3627/
 |title=「みんなジョブズに騙されている」増井俊之教授が進歩の止まったコンピュータのUIを問い直す【TechLIONレポ】
-|publisher=[[エンジニアType]]
+|publisher=[[キャリアデザインセンター|エンジニアType]]
 |date=2014-10-02
 |accessdate=2021-07-06
 }}
 </ref>
 * 「[[ピッツバーグ]]便利帳」を作成 (1991)<ref>
-{{Cite web
+{{Cite web|和書
 |url=https://sites.google.com/site/pghbenricho/
 |title=ピッツバーグ便利帳
 |accessdate=2021-07-07
 }}
 </ref>
-* 各種プラットフォームフォーム用の日本語入力システム([[IME]])を公開中
-** Mac用日本語入力システム「[http://masui.github.io/GyaimMotion/ Gyaim]」
-** Android用日本語入力システム「[https://scrapbox.io/masui-Slime/ Slime]」
-** Chromebook用日本語入力システム「[https://masui.github.io/Chaim/ Chaim]」
-** 日本語入力用辞書 [https://scrapbox.io/Gictionary/ Gictionary]
 
 == 脚注 ==
 {{脚注ヘルプ}}
@@ -286,30 +281,6 @@
 ** [https://scrapbox.io/masui/1978%E5%B9%B4%E3%81%ABI%2FO%E3%81%AB%E6%9B%B8%E3%81%84%E3%81%9F%E8%A8%98%E4%BA%8B マイコンを使ったTVゲーム] I/O 1978
 * [https://scrapbox.io/masui/論文リスト 論文リスト]
 * [http://pitecan.com/ Pitecan.com]
-
-== Webサービス ==
-* [[Nota株式会社|株式会社Helpfeel]]での運用
-** [https://gyazo.com/ Gyazo] (画像キャプチャ/アップロードシステム)
-** [https://scrapbox.io/ Scrapbox] (Web上の情報整理/共有システム)
-** [https://helpfeel.com/ Helpfeel] (ヘルプ支援システム)
-* 個人運用
-** [http://hondana.org 本棚.org] (書籍情報共有)
-** [https://episopass.com EpisoPass] (パスワード管理)
-** [https://Enigmize.com Enigmize] (暗号化通信)
-** [http://GyaTV.com GyaTV] (スクリーンセーバ)
-** [http://goquick.org GoQuick] (URLショートカット)
-** [http://Gyaki.org Gyaki] (ブラウザお絵描き)
-
-== 公開ソフトウェア ==
-* [https://github.com/masui/Hondana 本棚.org]
-* [https://github.com/masui/EpisoPass EpisoPass]
-* [https://github.com/masui/Enigmize Enigmize]
-* [https://github.com/masui/GyaTV GyaTV]
-* [https://github.com/masui/GoQuick GoQuick]
-* [https://github.com/masui/Gyaki Gyaki]
-* [http://www.pitecan.com/DynamicMacro/ Dynamic Macro] (編集操作再実行)
-* [https://github.com/masui/asearch-ruby Asearch] (曖昧検索ライブラリ)
-* [https://github.com/masui/Keisen keisen.el] ([[Emacs]]でカーソルキーで罫線を描く)
 
 {{Normdaten}}
 {{Scientist-stub}}
